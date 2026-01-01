@@ -1,3 +1,3 @@
-# Brookline Bites
+# Parking Site
 
-Blog site for fun in Brookline.
+This is a basic parking page for websites.
